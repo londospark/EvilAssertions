@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace TestingExpressions
+namespace EvilAssertions
 {
     internal class Assertions
     {

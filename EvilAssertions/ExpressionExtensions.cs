@@ -1,7 +1,7 @@
 using System;
 using System.Linq.Expressions;
 
-namespace TestingExpressions
+namespace EvilAssertions
 {
     internal static class ExpressionExtensions
     {

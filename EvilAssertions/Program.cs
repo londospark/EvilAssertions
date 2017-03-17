@@ -1,7 +1,7 @@
 ﻿using System;
-using static TestingExpressions.Assertions;
+using static EvilAssertions.Assertions;
 
-namespace TestingExpressions
+namespace EvilAssertions
 {
     class Program
     {
