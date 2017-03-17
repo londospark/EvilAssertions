@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using static TestingExpressions.Assertions;
 
 namespace TestingExpressions
 {
@@ -10,6 +7,9 @@ namespace TestingExpressions
     {
         static void Main(string[] args)
         {
+            var num = 1;
+            Assert(that => num == 2);
+            Console.ReadLine();
         }
     }
 }
